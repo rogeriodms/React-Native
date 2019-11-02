@@ -1,0 +1,10 @@
+C:\Users\Rogerio\source\repos\Reactnewproject\Reactnewproject\bin\Debug\Reactnewproject.exe.config
+C:\Users\Rogerio\source\repos\Reactnewproject\Reactnewproject\bin\Debug\Reactnewproject.exe
+C:\Users\Rogerio\source\repos\Reactnewproject\Reactnewproject\bin\Debug\Reactnewproject.pdb
+C:\Users\Rogerio\source\repos\Reactnewproject\Reactnewproject\obj\Debug\Reactnewproject.csprojAssemblyReference.cache
+C:\Users\Rogerio\source\repos\Reactnewproject\Reactnewproject\obj\Debug\Reactnewproject.name.resources
+C:\Users\Rogerio\source\repos\Reactnewproject\Reactnewproject\obj\Debug\Reactnewproject.Properties.Resources.resources
+C:\Users\Rogerio\source\repos\Reactnewproject\Reactnewproject\obj\Debug\Reactnewproject.csproj.GenerateResource.cache
+C:\Users\Rogerio\source\repos\Reactnewproject\Reactnewproject\obj\Debug\Reactnewproject.csproj.CoreCompileInputs.cache
+C:\Users\Rogerio\source\repos\Reactnewproject\Reactnewproject\obj\Debug\Reactnewproject.exe
+C:\Users\Rogerio\source\repos\Reactnewproject\Reactnewproject\obj\Debug\Reactnewproject.pdb
